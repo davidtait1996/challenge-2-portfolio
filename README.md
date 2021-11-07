@@ -26,25 +26,25 @@ CSS
 
 ## Wireframe
 
-![Wireframe](https://github.com/davidtait1996/challenge-1-code-refactor/blob/main/wireframe.PNG?raw=true)
+![Wireframe](https://github.com/davidtait1996/challenge-1-code-refactor/blob/wireframe.PNG?raw=true)
 
 ---
 
 ## Size 1
 
-![Size1](https://github.com/davidtait1996/challenge-1-code-refactor/blob/main/screencapture-davidtait1996-github-io-challenge-2-portfolio-2021-11-07-08_35_26.PNG?raw=true)
+![Size1](https://github.com/davidtait1996/challenge-1-code-refactor/blob/screencapture-davidtait1996-github-io-challenge-2-portfolio-2021-11-07-08_35_26.PNG?raw=true)
 
 ---
 
 ## Size 2
 
-![Size2](https://github.com/davidtait1996/challenge-1-code-refactor/blob/main/screencapture-davidtait1996-github-io-challenge-2-portfolio-2021-11-07-08_37_11.PNG?raw=true)
+![Size2](https://github.com/davidtait1996/challenge-1-code-refactor/blob/screencapture-davidtait1996-github-io-challenge-2-portfolio-2021-11-07-08_37_11.PNG?raw=true)
 
 ---
 
 ## Size 3
 
-![Size3](https://github.com/davidtait1996/challenge-1-code-refactor/blob/main/screencapture-davidtait1996-github-io-challenge-2-portfolio-2021-11-07-08_35_26.PNG?raw=true)
+![Size3](https://github.com/davidtait1996/challenge-1-code-refactor/blob/screencapture-davidtait1996-github-io-challenge-2-portfolio-2021-11-07-08_35_26.PNG?raw=true)
 
 ---
 
